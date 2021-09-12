@@ -1,8 +1,16 @@
-# ENTITY DDD
+# Entity DDD
 
-Estudo de caso de criação de uma entidade no modelo arquitetural DDD.
+Case de estudo Entity DDD em Java, utilizando padrões de projetos e modelagem de domínio, baseado em uma Arquitetura Limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa.
 
-Modelagem de domínio utilizando a classe Either para tratamento de errors.
+## Either
+
+Either é uma classe externa do java que tem como principal finalidade o tratamento de erros de forma elegante.
+
+👉 <a href="https://github.com/venzel/entity_ddd/blob/master/src/main/java/app/utils/Either.java">Either</a><br />
+
+## Estrutura de pastas e arquivos
+
+<img src="./media/images/folders-v1.png" />
 
 ## Autor
 
