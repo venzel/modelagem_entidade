@@ -1,6 +1,6 @@
-# Entity DDD
+# Modelagem de entidade
 
-Case de estudo Entity DDD em Java, utilizando padrões de projetos e modelagem de domínio, baseado em uma Arquitetura Limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa.
+Caso de estudo Modelagem de entidade na linguagem Java, utilizando padrões de projetos, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa.
 
 ## Either
 
