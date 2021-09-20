@@ -8,7 +8,7 @@ Either é uma classe externa do java que tem como principal finalidade o tratame
 
 👉 <a href="https://github.com/venzel/entity_ddd/blob/master/src/main/java/app/utils/Either.java">Either</a><br />
 
-## Estrutura de pastas e arquivos
+## Pastas e arquivos
 
 <img src="./media/images/folders-v1.png" />
 
